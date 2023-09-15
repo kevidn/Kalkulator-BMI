@@ -1,2 +1,2 @@
 # Kalkulator BMI
-Kalkulator BMI (Body Mass Index) dilengkapi dengan solusi untuk orang yang kekurangan atau kelebihan berat badan.
+BMI (Body Mass Index) calculator and equipped with solutions for people who are under or overweight.
